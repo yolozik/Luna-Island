@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-12%2B-blue?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-8%2B-blue?style=for-the-badge)
 ![Root](https://img.shields.io/badge/Root-Optional-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
