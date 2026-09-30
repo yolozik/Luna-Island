@@ -6,6 +6,7 @@
 ![Android](https://img.shields.io/badge/Android-8%2B-blue?style=for-the-badge)
 ![Root](https://img.shields.io/badge/Root-Optional-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+[![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-blue)](PRIVACY.md)
 
 **Интерактивный «динамический остров» вокруг выреза камеры — центр управления с ИИ-ассистентом**
 
