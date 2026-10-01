@@ -187,7 +187,7 @@
 
 <p align="center">
   <img src="screenshots/photo_2026-10-01_08-33-38.jpg" width="200">
-  <img src="screenshots/photo_2026-10-01_08-33-38(2).jpg" width="200">
+  <img src="screenshots/photo_2026-10-01_08-33-38 (2).jpg" width="200">
 </p>
 
 - **Function calling** — 50+ инструментов *(полный список ниже)*
