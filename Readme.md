@@ -176,16 +176,13 @@
 
 ## 🌙 Luna — ИИ-ассистент
 
-<p align="center">
-  <img src="screenshots/4.png" width="200">
-</p>
-
 <details>
 <summary><b>🤖 Возможности ассистента</b></summary>
 
 > Работает через **ваш API Key** любого ИИ-провайдера.
 
 <p align="center">
+  <img src="screenshots/4.png" width="200">
   <img src="screenshots/photo_2026-10-01_08-33-38.jpg" width="200">
   <img src="screenshots/photo_2026-10-01_08-33-38 (2).jpg" width="200">
 </p>
