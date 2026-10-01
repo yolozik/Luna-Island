@@ -45,6 +45,11 @@
 <details>
 <summary><b>🏝️ Остров</b></summary>
 
+<p align="center">
+  <img src="screenshots/1.png" width="200">
+  <img src="screenshots/2.png" width="200">
+</p>
+
 - **Компактный вид** — маленькая «таблетка» вокруг выреза камеры с текущим событием
 - **Развёрнутый вид** — раскрывается по тапу в полноценную панель
 - **Landscape-режим** — 4 варианта поведения в горизонтальной ориентации *(показывать / компактно / скрывать / скрывать + пилюли при уведомлениях)*
@@ -55,6 +60,10 @@
 
 <details>
 <summary><b>🔔 Уведомления</b></summary>
+
+<p align="center">
+  <img src="screenshots/13.png" width="200">
+</p>
 
 - **Перехват** — Уведомления из любых приложений отображаются в острове вместо системной шторки
 - **Правила на приложение** — «Всегда», «Никогда» или по глобальной настройке
@@ -72,6 +81,10 @@
 <details>
 <summary><b>📞 Звонки</b></summary>
 
+<p align="center">
+  <img src="screenshots/10.png" width="200">
+</p>
+
 - **Системные звонки** — приём/отклонение/завершение через PendingIntent диалога
 - **VoIP-звонки** — Telegram, WhatsApp, Signal, Viber, Discord, Max, Google Meet, Zoom, Teams, Skype, Webex и др.
 - **Разделение** — системные и VoIP звонки корректно отображаются параллельно
@@ -82,6 +95,10 @@
 <details>
 <summary><b>🎵 Медиа</b></summary>
 
+<p align="center">
+  <img src="screenshots/5.png" width="200">
+</p>
+
 - **Плеер** — обложка, название, артист, прогресс-бар, seek *(компактный и развёрнутый вид)*
 - **Управление** — play/pause, следующий/предыдущий, лайк/дизлайк *(через MediaSession + кастомные действия)*
 - **Обложки** — из MediaSession, при отсутствии — из уведомления плеера *(актуально для YouTube)*
@@ -91,6 +108,10 @@
 
 <details>
 <summary><b>🧭 Навигация</b></summary>
+
+<p align="center">
+  <img src="screenshots/12.png" width="200">
+</p>
 
 - **Поддержка** — Яндекс.Навигатор, Google Maps, 2ГИС, Waze *(через AccessibilityService)*
 - **Манёвры** — чтение расстояния, ETA, списка шагов маршрута
@@ -120,6 +141,10 @@
 <details>
 <summary><b>🔋 Системные пекки</b></summary>
 
+<p align="center">
+  <img src="screenshots/3.png" width="200">
+</p>
+
 - **Батарея** — подключение/отключение питания, низкий заряд
 - **Режим звонка** — Normal / Vibrate / Silent
 - **Монитор трафика** — скорости ↓/↑, трафик за сегодня
@@ -128,6 +153,12 @@
 
 <details>
 <summary><b>🎛️ Control Center</b></summary>
+
+<p align="center">
+  <img src="screenshots/7.png" width="200">
+  <img src="screenshots/8.png" width="200">
+  <img src="screenshots/9.png" width="200">
+</p>
 
 Открывается **долгим тапом** по острову.
 
@@ -144,6 +175,10 @@
 ---
 
 ## 🌙 Luna — ИИ-ассистент
+
+<p align="center">
+  <img src="screenshots/4.png" width="200">
+</p>
 
 <details>
 <summary><b>🤖 Возможности ассистента</b></summary>
